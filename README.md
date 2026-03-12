@@ -2,9 +2,13 @@
 
 **Last Updated: March 7, 2026**
 
-This Privacy Policy describes how the Omega AI mobile application (Private Offline AI Chat), developed by Diego de Souza Castro, collects, uses, and protects your information when you use our mobile application, available on Google Play and the App Store.
+This Privacy Policy describes how the Omega AI mobile application (Private Offline AI Chat), developed by Diego de Souza Castro, collects, uses, and protects your information when you use our mobile application, available on the App Store.
 
-## 1. Information We Collect
+## 1. AI Processing – No Third-Party AI Services
+
+**Omega AI does NOT send your chat messages, conversations, or any personal data to any third-party AI service.** All AI processing runs entirely on your device using on-device models (llama.cpp). Your conversations never leave your device. We have no access to your chat content.
+
+## 2. Information We Collect
 
 ### Personal and Chat Data
 
@@ -27,7 +31,7 @@ We may collect non-personal information related to how you interact with the app
 
 This data helps us improve the app's performance and user experience.
 
-## 2. How We Use Your Information
+## 3. How We Use Your Information
 
 The collected data is used solely for:
 
@@ -37,33 +41,33 @@ The collected data is used solely for:
 
 We do not sell, rent, or share your personal or chat data with third parties.
 
-## 3. Third-Party Services
+## 4. Third-Party Services
 
 ### Advertising
 
-The app uses Google AdMob to display advertisements (interstitial ads and app open ads). AdMob may collect anonymous data such as device identifiers and ad interaction data in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
+The app uses Google AdMob to display advertisements (interstitial ads and app open ads). AdMob may collect anonymous data such as device identifiers and ad interaction data in accordance with [Google's Privacy Policy](https://policies.google.com/privacy). AdMob does not receive your chat content or conversations.
 
 ### Other Services
 
 The app may use other third-party tools to help us understand usage and performance. These services may collect anonymous usage data in accordance with their own privacy policies.
 
-## 4. Data Security
+## 5. Data Security
 
 We take reasonable and industry-standard measures to protect your data. Your chats and conversations are stored locally on your device using encrypted storage where supported by the platform.
 
 However, no method of electronic transmission or storage is 100% secure. We recommend keeping your device protected with a secure lock and regular backups.
 
-## 5. Children's Privacy
+## 6. Children's Privacy
 
 The app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children.
 
 If a parent or guardian believes that their child has provided us with personal information, they should contact us, and we will promptly delete the data.
 
-## 6. Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. Updates become effective as soon as they are posted. We encourage you to review this policy periodically.
 
-## 7. Contact Us
+## 8. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:
 
